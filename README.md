@@ -16,4 +16,4 @@ This is my solution for the challenge.
 ## links
 
 - Solution URL:
-- [Live Site URL] (https://illyaas4show.github.io/QR-code-component/)
+- [Live Site URL](https://illyaas4show.github.io/QR-code-component)
