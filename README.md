@@ -11,7 +11,6 @@ This is my solution for the challenge.
   - [what I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## links
 
